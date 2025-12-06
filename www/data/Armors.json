@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"\\C[24]Gain +100 Armor at the start of a fight.\\C","etypeId":2,"traits":[],"iconIndex":2445,"name":"Light Kevlar","note":"","params":[0,0,0,100,0,0,0,0],"price":500},
+{"id":2,"atypeId":1,"description":"\\C[24]Gain +200 Armor at the start of a fight.\\C\n\\C[2]Lose -1 Walkspeed.\\C","etypeId":2,"traits":[],"iconIndex":2446,"name":"Heavy Kevlar","note":"","params":[0,0,0,200,0,0,-1,0],"price":1000},
+{"id":3,"atypeId":1,"description":"\\C[24]Gain +400 Armor at the start of a fight.\\C\n\\C[2]Lose -2 Walkspeed and -10% Evasion.\\C","etypeId":2,"traits":[{"code":22,"dataId":1,"value":-0.1}],"iconIndex":2447,"name":"Titanium Armor","note":"","params":[0,0,0,400,0,0,-2,0],"price":2000},
+{"id":4,"atypeId":1,"description":"Gain \\C[24]+75 Armor\\C and \\C[24]+20% Bullet Resistance\\C.","etypeId":3,"traits":[{"code":11,"dataId":2,"value":0.8}],"iconIndex":2448,"name":"St. Patricks Hat","note":"<Passive State: 40>\n","params":[0,0,0,75,0,0,0,0],"price":600},
+{"id":5,"atypeId":1,"description":"Gain \\C[24]+20 Armor\\C, \\C[24]+15% Accuracy\\C and\n\\C[24]+5% Crit Chance\\C.","etypeId":3,"traits":[{"code":22,"dataId":0,"value":0.15},{"code":22,"dataId":2,"value":0.05}],"iconIndex":2449,"name":"Night Vision Optics","note":"<Passive State: 41>\n","params":[0,0,0,20,0,0,0,0],"price":600},
+{"id":6,"atypeId":1,"description":"Gain \\C[17]+50 Max Ammo\\C, \\C[23]+25% Walkspeed\\C and\n\\C[23]+10% Evasion\\C.","etypeId":3,"traits":[{"code":21,"dataId":6,"value":1.25},{"code":22,"dataId":1,"value":0.1},{"code":22,"dataId":3,"value":0.1}],"iconIndex":2459,"name":"Respirator","note":"<Passive State: 42>\n","params":[0,50,0,0,0,0,0,0],"price":600},
+{"id":7,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

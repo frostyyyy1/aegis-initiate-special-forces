@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":6,"characterName":"","classId":1,"equips":[1,0],"faceIndex":0,"faceName":"AEGIS Personnel","traits":[],"initialLevel":1,"maxLevel":50,"name":"The Initiate","nickname":"The Initiate","note":"<Custom Barrier Points>\n    value += user.def - 1;\n</Custom Barrier Points>","profile":""},
+{"id":2,"battlerName":"","characterIndex":5,"characterName":"","classId":2,"equips":[0],"faceIndex":0,"faceName":"SrElit3","traits":[],"initialLevel":1,"maxLevel":50,"name":"SrElit3","nickname":"SrElit3","note":"<Custom Barrier Points>\n    value += user.def - 1;\n</Custom Barrier Points>","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":3,"equips":[0],"faceIndex":0,"faceName":"JustTradingAgain","traits":[],"initialLevel":1,"maxLevel":50,"name":"JustTrading","nickname":"JustTrading","note":"<Custom Barrier Points>\n    value += user.def - 1;\n</Custom Barrier Points>","profile":""},
+{"id":4,"battlerName":"","characterIndex":3,"characterName":"","classId":4,"equips":[0],"faceIndex":0,"faceName":"kdugen","traits":[],"initialLevel":1,"maxLevel":50,"name":"kdugen","nickname":"kdugen","note":"<Custom Barrier Points>\n    value += user.def - 1;\n</Custom Barrier Points>","profile":""}
+]
